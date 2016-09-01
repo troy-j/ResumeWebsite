@@ -1,0 +1,99 @@
+/*stylesheet for resume website / Troy Johnson
+
+update 8/31/2016
+
+*/
+
+
+body {
+	background-color: #FAFAE5; 
+	font-family: Arial, Verdana, sans-serif;
+	}
+	
+#wrapper { 
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+a {
+	font-size: 1.25em;
+	text-decoration: none;
+	}
+	
+h1 {
+	color: #4d004d;
+	font-size: 3em;
+	/*border-bottom: thin solid #4d004d;*/
+	} 
+
+h2 {
+	color: #4d004d;
+	border-bottom: thin solid #4d004d;
+	margin: 0
+}
+
+h3{
+	color: #4d004d;
+	margin-bottom: 0;
+}
+
+h4 {
+	color: #4d004d;
+	margin-bottom: 0;
+}
+nav {
+	font-weight: bold;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+dt {
+	font-weight: bold;
+	font-style: italic;
+	color: #4d004d;
+	text-align: right; 
+	padding: 0 26px 0 0; 
+	width: 150px;
+	float: left; 
+	/*border-right: 1px solid #999;*/
+	}
+	
+dd {  
+	color: #4d004d;
+	width: 700px;
+	float: right;
+	}
+
+ul {color: #4d004d;
+	margin-top: 0;
+	margin-left: 2em;
+	}
+
+
+.clear { 
+	clear: both; 
+	}
+
+img	{ 
+	max-width: 30%;
+	max-height: 30%;
+	float: right;
+	margin: -30px 0 0 0
+	}
+
+footer {
+	border-top: thin solid;
+	font-size: .75rem;
+	font-style: italic;
+	}
+
+
+
+
+
+
+
+
+
